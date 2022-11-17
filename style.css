@@ -1,0 +1,20 @@
+.container-fluid {
+    background-color: rgba(252, 243, 197, 0.815);
+}
+
+.radis {
+    height: 150px;
+    border-radius: 30px;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+
+.icons a i {
+    font-size: 30px;
+    margin-left: 15px;
+
+}
